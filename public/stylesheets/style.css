@@ -9,3 +9,7 @@ a {
 .btn-danger {
   height: 200px;
 }
+.img-thumbnail {
+  height:250px;
+  width:300px;
+}
